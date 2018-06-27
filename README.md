@@ -1,1 +1,1 @@
-# instacart_data_mining
+# Analyze 3 Million Grocery Orders Data with Spark MLib and Jupyter
