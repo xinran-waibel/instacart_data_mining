@@ -1,1 +1,2 @@
 ## Analyze 3 Million Grocery Orders Data with Spark MLib and Jupyter
+In this project, the Machine Learning Library (Mlib) of Apache Spark, an open-source cluster computing framework that has high scalability and performance, is utilized to analyze the Instacart dataset, which contains an anonymized sample of over 3.4 million online grocery orders, in order to explore the following user order patterns: what time customers usually order groceries, how often customers order groceries, what products customers will buy again, and what groceries are often bought together.
